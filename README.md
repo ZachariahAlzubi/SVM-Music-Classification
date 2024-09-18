@@ -16,7 +16,7 @@ This project performs music genre classification using Support Vector Machines (
 
 1. Ensure the data is correctly placed in the `Data/images_original/` directory, organized by genre folders.
 2. Run the `main.py` file to load the data, train the model, and evaluate its performance.
-(you could also just inspect the jupyter notebook which contains pully functional usage of all of the python files involved)
+(you could also just inspect the jupyter notebook which contains fully functional usage of all of the python files involved)
 ### Example
 
 ```bash
